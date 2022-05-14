@@ -12,7 +12,7 @@ Puerto de la función de escritorio dinámico de macOS Mojave a Windows 10. Disp
 <a href="https://github.com/t1m0thyj/WinDynamicDesktop/releases/latest"><img src="https://github.com/t1m0thyj/WinDynamicDesktop/blob/master/images/download_github.png?raw=true" alt="GitHub download" width="142"></a>
 <a href="//www.microsoft.com/store/apps/9nm8n7dq3z5f?cid=storebadge&ocid=badge"><img src="https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png" alt="Microsoft Store" width="142"/></a>
 
-## Themes
+## Temas
 
 Elija cualquiera de los temas incluidos con macOS, o muchos más temas disponibles para descargar [aquí](https://windd.info/themes/).
 
@@ -24,11 +24,11 @@ Elija un horario para recorrer imágenes de fondo de pantalla durante 24 horas
 
 ![Screenshot of Configure Timing window](images/configure_schedule.png)
 
-## Supported Devices
+## Dispositivos Compatibles
 
 WinDynamicDesktop está desarrollado principalmente para Windows 10, pero debe ejecutarse en cualquier versión de Windows con .NET Framework 4.5 o posterior instalado. Si su versión de .NET Framework es demasiado antigua, puede instalar una más nueva desde [aquí](https://www.microsoft.com/net/download).
 
-## Resources
+## Recursos
 
 * [Ayuda](https://github.com/t1m0thyj/WinDynamicDesktop/wiki)
 * [Descarga Temas](https://windd.info/themes/)
@@ -36,15 +36,15 @@ WinDynamicDesktop está desarrollado principalmente para Windows 10, pero debe e
 * [Traduce en POEditor](https://poeditor.com/join/project/DEgfVpyuiK)
 * [.ddw Creador de Temas](https://ddw-theme-creator.vercel.app/) (gracias @gdstewart)
 
-## Known Issues
+## Problemas Conocidos
 
 * [Ajuste de papel tapiz no recordado en la aplicación Microsoft Store](https://github.com/t1m0thyj/WinDynamicDesktop/wiki/Known-issues#wallpaper-fit-not-saved-with-multiple-monitors)
 * [El fondo de pantalla se atasca y no se actualiza](https://github.com/t1m0thyj/WinDynamicDesktop/wiki/Known-issues#wallpaper-gets-stuck-and-wont-update)
 
-## Limitations
+## Limitaciones
 * [No se pueden mostrar imágenes separadas en múltiples escritorios virtuales](https://github.com/t1m0thyj/WinDynamicDesktop/issues/299)
 
-## Disclaimers
+## Créditos
 
 * Las imágenes de fondo de pantalla no son de mi propiedad, pertenecen a Apple
 * [LocationIQ API](https://locationiq.org/) se usa cuando ingresa su ubicación, para convertirla a latitud y longitud
