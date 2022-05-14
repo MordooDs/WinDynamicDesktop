@@ -50,3 +50,6 @@ WinDynamicDesktop está desarrollado principalmente para Windows 10, pero debe e
 * [LocationIQ API](https://locationiq.org/) se usa cuando ingresa su ubicación, para convertirla a latitud y longitud
 * La aplicación Microsoft Store usa la API de ubicación de Windows si se otorga el permiso
 * Icono de la app creado por [Roundicons](https://www.flaticon.com/authors/roundicons) de [flaticon.com](https://www.flaticon.com/) y es licenciado por [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
+
+
+* Creado por Mordoo. Discord: Mordoo#1695
