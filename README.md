@@ -9,7 +9,7 @@
 # WinDynamicDesktop
 Puerto de la función de escritorio dinámico de macOS Mojave a Windows 10. Disponible en GitHub y Microsoft Store.
 
-<a href="https://github.com/t1m0thyj/WinDynamicDesktop/releases/latest"><img src="https://github.com/t1m0thyj/WinDynamicDesktop/blob/master/images/download_github.png?raw=true" alt="GitHub download" width="142"></a>
+<a href="https://github.com/MordooDs/WinDynamicDesktop/releases/latest"><img src="https://github.com/t1m0thyj/WinDynamicDesktop/blob/master/images/download_github.png?raw=true" alt="GitHub download" width="142"></a>
 <a href="//www.microsoft.com/store/apps/9nm8n7dq3z5f?cid=storebadge&ocid=badge"><img src="https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png" alt="Microsoft Store" width="142"/></a>
 
 ## Temas
